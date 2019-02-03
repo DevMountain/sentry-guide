@@ -2,7 +2,7 @@
 
 # Sentry Guide
 
-A guide on how to integrate Sentry into new projects.
+A guide on how to integrate [Sentry](https://sentry.io/welcome/) into new projects.
 
 ## Setting up the Digital Ocean Droplet
 
